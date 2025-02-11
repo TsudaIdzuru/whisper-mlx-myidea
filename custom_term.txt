@@ -1,0 +1,5 @@
+AI, エーアイ
+Deep Learning, ディープラーニング
+GPT, ジーピーティー
+SIMOPUS, シモプス
+CAE, シーエーイー
